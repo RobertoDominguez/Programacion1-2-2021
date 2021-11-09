@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Programacion1-2-2021\Programacion1-2-2021\bin\Debug\Programacion1-2-2021.exe.config
+C:\Users\USER\source\repos\Programacion1-2-2021\Programacion1-2-2021\bin\Debug\Programacion1-2-2021.exe
+C:\Users\USER\source\repos\Programacion1-2-2021\Programacion1-2-2021\bin\Debug\Programacion1-2-2021.pdb
+C:\Users\USER\source\repos\Programacion1-2-2021\Programacion1-2-2021\bin\Debug\Programacion1-2-2021.xml
+C:\Users\USER\source\repos\Programacion1-2-2021\Programacion1-2-2021\obj\Debug\Programacion1-2-2021.vbprojAssemblyReference.cache
+C:\Users\USER\source\repos\Programacion1-2-2021\Programacion1-2-2021\obj\Debug\Programacion1_2_2021.Form1.resources
+C:\Users\USER\source\repos\Programacion1-2-2021\Programacion1-2-2021\obj\Debug\Programacion1_2_2021.Resources.resources
+C:\Users\USER\source\repos\Programacion1-2-2021\Programacion1-2-2021\obj\Debug\Programacion1-2-2021.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\Programacion1-2-2021\Programacion1-2-2021\obj\Debug\Programacion1-2-2021.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Programacion1-2-2021\Programacion1-2-2021\obj\Debug\Programacion1-2-2021.exe
+C:\Users\USER\source\repos\Programacion1-2-2021\Programacion1-2-2021\obj\Debug\Programacion1-2-2021.xml
+C:\Users\USER\source\repos\Programacion1-2-2021\Programacion1-2-2021\obj\Debug\Programacion1-2-2021.pdb
